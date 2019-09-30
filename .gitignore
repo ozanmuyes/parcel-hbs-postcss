@@ -1,0 +1,7 @@
+node_modules
+
+# Build generated
+dist/
+
+### Parcel ###
+.cache/
